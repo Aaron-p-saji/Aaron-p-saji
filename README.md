@@ -12,8 +12,8 @@
 
 Hi, i'm [Aaron P Saji](https://www.facebook.com/aaron.saji.94/), a passionate self-taught developer and a BCA student from india. I love doing new projects and loves to find new things also have made discord bot from scratch.
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Aaron-p-saji/my-gifs/main/programmer.gif?raw=true" width="450" height="320" />
+<!--   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
   
 
 **languages and tools:**  
