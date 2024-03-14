@@ -2,9 +2,6 @@
 <a href="https://www.instagram.com/gtx_cosmic/">
   <img align="left" alt="Aaron's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://twitter.com/aaronpsaji1">
-  <img align="left" alt="Aaron's | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Aaron-p-saji.Aaron-p-saji)
 
