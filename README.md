@@ -33,5 +33,5 @@
 
 <h3 align="left">Currently working on</h3>
 
-[![ChatIO Card](https://github-readme-stats.vercel.app/api/pin/?username=Aaron-p-saji&repo=chatio)](https://github.com/anuraghazra/github-readme-stats)
-[![ChatIO Card](https://github-readme-stats.vercel.app/api/pin/?username=Aaron-p-saji&repo=auto-hr)](https://github.com/anuraghazra/github-readme-stats)
+[![ChatIO Card](https://github-readme-stats.vercel.app/api/pin/?username=Aaron-p-saji&repo=chatio)](https://github.com/Aaron-p-saji/chatio)
+[![ChatIO Card](https://github-readme-stats.vercel.app/api/pin/?username=Aaron-p-saji&repo=auto-hr)](https://github.com/Aaron-p-saji/auto-hr)
