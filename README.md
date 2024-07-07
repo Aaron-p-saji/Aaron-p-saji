@@ -1,54 +1,38 @@
-### Hey There ✌️
-<a href="https://www.instagram.com/aaron.sajji/">
-  <img align="left" alt="Aaron's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+<h1 align="center">Hi 👋, I'm Aaron P Saji</h1>
+<h3 align="center">An Efficient Self-Taught Developer from the Southern part of India</h3>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Aaron-p-saji.Aaron-p-saji)
+<p align="left"> <a href="https://twitter.com/aaronpsaji1" target="blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="aaronpsaji1" /></a> </p>
 
-<br />
+- 🔭 I’m currently working on [ChatIO](https://github.com/Aaron-p-saji/chatio)
 
-Hi, i'm [Aaron P Saji](https://www.facebook.com/aaron.saji.94/), a passionate self-taught developer and a BCA student from india. I love doing new projects and loves to find new things also have made discord bot from scratch.
+- 🌱 I’m currently learning **Rust WASM**
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Aaron-p-saji/my-gifs/main/programmer.gif?raw=true" width="450" height="320" />
-<!--   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
-  
+- 💬 Ask me about **Next.js, Django**
 
-**languages and tools:**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+- 📫 How to reach me **techgate.aaron@gmail.com**
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yLlGvTkMC62iVLPKMbqz-4-8CR3wYkry/view?usp=drive_open&edoph=true)
 
-```text
-Python          19 hrs 21 mins  █████████████████████░░░░   83.78 %
-C Programming   2 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
-HTML            53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-CSS             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Other           9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-```
+- ⚡ Fun fact **I am always hungry**
 
-<!--END_SECTION:waka-->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/benzene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="benzene" height="30" width="40" /></a>
+<a href="https://twitter.com/aaronpsaji1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaronpsaji1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aaron-p-sajidev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaron-p-sajidev/" height="30" width="40" /></a>
+<a href="https://fb.com/aaron.saji.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aaron.saji.94" height="30" width="40" /></a>
+<a href="https://instagram.com/aaron.sajji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaron.sajji" height="30" width="40" /></a>
+<a href="https://medium.com/@aaronp.saji1233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aaronp.saji1233" height="30" width="40" /></a>
+</p>
 
-if you like what i do, maybe consider buying me a coffee/tea 🍵 🥺👉👈
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40" color="white" /> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<a href="https://www.buymeacoffee.com/aaronp.saji" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/aaronp.saji"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aaronp.saji" /></a></p><br><br>
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  2,582 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed > 10 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaron-p-saji&show_icons=true&theme=merko&locale=en&layout=compact" alt="aaron-p-saji" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaron-p-saji&show_icons=true&theme=merko&locale=en" alt="aaron-p-saji" /></p>
 
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aaron-p-saji&show_icons=true&theme=tokyonight" alt="Aaron-p-saji" />
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaron-p-saji&theme=dark" alt="aaron-p-saji" /></p>
