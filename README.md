@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron P Saji</h1>
 <h3 align="center">An Efficient Self-Taught Developer from the Southern part of India</h3>
 
-<p align="left"> <a href="https://twitter.com/aaronpsaji1" target="blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="aaronpsaji1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aaronpsaji1" target="blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&label=Aaron%20P%20Saji&labelColor=black" alt="aaronpsaji1" /></a> </p>
 
 - 🔭 I’m currently working on [ChatIO](https://github.com/Aaron-p-saji/chatio)
 
@@ -31,8 +31,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aaronp.saji"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aaronp.saji" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaron-p-saji&show_icons=true&theme=merko&locale=en&layout=compact" alt="aaron-p-saji" /></p>
+<h3 align="left">Currently working on</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaron-p-saji&show_icons=true&theme=merko&locale=en" alt="aaron-p-saji" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaron-p-saji&theme=dark" alt="aaron-p-saji" /></p>
+[![ChatIO Card](https://github-readme-stats.vercel.app/api/pin/?username=Aaron-p-saji&repo=chatio)](https://github.com/anuraghazra/github-readme-stats)
+[![ChatIO Card](https://github-readme-stats.vercel.app/api/pin/?username=Aaron-p-saji&repo=auto-hr)](https://github.com/anuraghazra/github-readme-stats)
